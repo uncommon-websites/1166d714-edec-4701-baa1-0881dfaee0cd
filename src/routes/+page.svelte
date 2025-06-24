@@ -11,12 +11,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="/sample.png"
-	generating
+	title="Heavy machines that think."
+	subtitle="More uptime. Fewer accidents. No guesswork."
+	imageSrc="/generated/image-a-mining-excavator-operator-confidently-.webp"
+	centered={true}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://logo.clearbit.com/caterpillar.com',
+		'https://logo.clearbit.com/bhp.com',
+		'https://logo.clearbit.com/deere.com',
+		'https://logo.clearbit.com/komatsu.com'
+	]}
+/>
 
 <Summary
 	generating
