@@ -12,7 +12,7 @@
 
 <Hero
 	title="Heavy  think."
-	subtitle="More uptime. Fewer accidents. No guesswork."
+	title="More uptime. Fewer accidents. No guesswork."
 	imageSrc="/generated/image-a-mining-excavator-operator-confidently-.webp"
 	centered={true}
 />
