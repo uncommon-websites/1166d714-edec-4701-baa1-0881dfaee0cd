@@ -11,18 +11,18 @@
 </script>
 
 <Hero
-	title="Heavy machines that think."
+	title="Heavy  think."
 	subtitle="More uptime. Fewer accidents. No guesswork."
 	imageSrc="/generated/image-a-mining-excavator-operator-confidently-.webp"
 	centered={true}
 />
-<LogoScroller 
+<LogoScroller
 	label="Trusted by industry leaders"
 	logoUrls={[
-		'https://logo.clearbit.com/caterpillar.com',
-		'https://logo.clearbit.com/bhp.com',
-		'https://logo.clearbit.com/deere.com',
-		'https://logo.clearbit.com/komatsu.com'
+		"https://logo.clearbit.com/caterpillar.com",
+		"https://logo.clearbit.com/bhp.com",
+		"https://logo.clearbit.com/deere.com",
+		"https://logo.clearbit.com/komatsu.com"
 	]}
 />
 
